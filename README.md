@@ -4,7 +4,7 @@ A simple weather app built using the React library. By using a combination of th
 
 ## Technologies Used
 
-- React
+- [React](https://react.dev/)
 - [OpenWeather API](https://openweathermap.org/)
 - [GeoDB Cities API](https://rapidapi.com/wirefreethought/api/geodb-cities/)
 
